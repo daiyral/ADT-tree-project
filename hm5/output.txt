@@ -1,0 +1,37 @@
+The height of your tree is: -1
+9 was added to the tree
+5 was added to the tree
+4 was added to the tree
+2 was added to the tree
+4 is already in tree
+8 was added to the tree
+3 was added to the tree
+6 was added to the tree
+1 was added to the tree
+The tree elements in in-order print are:1 2 3 4 5 6 8 9 
+The height of your tree is: 4
+The maximum is: 9 
+There are 2 small elements in this tree:1 2 
+There are 1 small elements in this tree:1 
+There are 5 small elements in this tree:1 2 3 4 5 
+There are 7 small elements in this tree:1 2 3 4 5 6 8 
+There are no 0 elements in the tree
+There are no 9 elements in the treeThe height of your tree is: -1
+9 was added to the tree
+5 was added to the tree
+4 was added to the tree
+2 was added to the tree
+4 is already in tree
+8 was added to the tree
+3 was added to the tree
+6 was added to the tree
+1 was added to the tree
+The tree elements in in-order print are:1 2 3 4 5 6 8 9 
+The height of your tree is: 4
+The maximum is: 9 
+There are 2 small elements in this tree:1 2 
+There are 1 small elements in this tree:1 
+There are 5 small elements in this tree:1 2 3 4 5 
+There are 7 small elements in this tree:1 2 3 4 5 6 8 
+There are no 0 elements in the tree
+There are no 9 elements in the tree
